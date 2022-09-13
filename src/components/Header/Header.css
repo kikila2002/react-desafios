@@ -1,0 +1,25 @@
+header {
+    
+    
+    width: 100%;
+    height: 250px;
+    background-color: brown;
+}
+.divheader0 {
+    height: 50px;
+}
+.headerlogo{
+    width: 80px;
+    height: 80px;
+}
+.divheader1 {
+    width: 100%;
+    height: 100px;
+}
+
+ul {
+
+    display: flex;
+    text-decoration: none;
+    justify-content: space-around;
+}
