@@ -1,5 +1,8 @@
 
 .imgg {
-    width: 150px;
-    height: 150px;
+    width: 80px;
+    height: 80px;
+}
+.card-todo {
+    width: 100px;
 }

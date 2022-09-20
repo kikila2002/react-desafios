@@ -3,7 +3,7 @@ import "./card.css"
 
 function Card(props) {
   return (
-    <div className='card todo '>
+    <div className='card-todo '>
         <div className='' >
             <img className='imgg' src={props.img} alt="cardimg" />
         </div>
