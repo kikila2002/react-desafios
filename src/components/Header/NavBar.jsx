@@ -13,7 +13,7 @@ function Header() {
           <h4>Lo mejor para tu mascota</h4>
         </div>
         <div className='divheader2'>
-          <ul>
+          <ul className='divul'>
               <li> PRODUCTOS </li>
               <li> QUIENES SOMOS </li>
               <li> COMO COMPRAR </li>

@@ -11,14 +11,18 @@ header {
 .headerlogo{
     width: 80px;
     height: 80px;
+    
 }
 .divheader1 {
+    padding: 1rem;
     width: 100%;
     height: 100px;
 }
 
-ul {
-
+.divul {
+    padding: 1rem;
+    list-style:none;
+    color: white;
     display: flex;
     text-decoration: none;
     justify-content: space-around;

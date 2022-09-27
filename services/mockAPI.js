@@ -45,6 +45,13 @@ export function getItems(){
         }, 1000 );
     }
     );
+}
 
-
+export function getSingleItems(){
+    return new Promise ((resolve, reject) => {
+        setTimeout(() =>{
+            resolve(data[0]);
+        }, 1000 );
+    }
+    );
 }

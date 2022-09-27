@@ -1,4 +1,4 @@
-import React from 'react'
+/* import React from 'react'
 import Card from "./Card"
 
 import getItems  from '../../services/mockAPI';
@@ -18,7 +18,7 @@ function List() {
     <div className='container '>
         {data.map((p) => {
 
-            return(
+            return( ???
                 <Card
                     key={p.id}
                     price={p.price}
@@ -26,10 +26,11 @@ function List() {
                     img={p.img}
                     detail={p.detail}
                 />
-            )
+            ) 
         })}
     </div>
   )
 }
 
 export default List;
+ */
